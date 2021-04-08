@@ -1,0 +1,5 @@
+---
+# vars file for wp-db
+db_pod_name: "mydb1"
+wp_pod_name: "mywp1"
+password: "hello"
